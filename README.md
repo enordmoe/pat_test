@@ -1,2 +1,2 @@
 # pat_test
-test of PAT
+This is a repository intended to allow testing for credentials storage using PAT.
